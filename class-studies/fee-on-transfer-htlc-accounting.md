@@ -198,6 +198,8 @@ compatibility as a first-class audit requirement, not an edge case.
 
 ---
 
-> Refious Security. *Fee-on-Transfer Token Accounting in HTLC Contracts*. 2026-05.  
-> https://github.com/refious-security/research
-> https://x.com/RefiousSecurity
+> Refious Security. *Fee-on-Transfer Token Accounting in HTLC Contracts*. 2026-05.
+
+https://github.com/refious-security/research
+
+https://x.com/RefiousSecurity
